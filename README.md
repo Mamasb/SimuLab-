@@ -19,4 +19,23 @@ Simulates a microwave oven, allowing users to select different types of food and
 ### 2. Washing Machine Simulator
 Simulates a washing machine, providing options for different types of clothing and washing cycles.
 
+## Usage
+Each simulator is contained within its own directory. To use a simulator, simply navigate to its directory and compile the source code using a C compiler. Run the executable file to start the simulation.
+
+Example:
+cd microwave_simulator
+gcc microwave.c -o microwave
+./microwave
+
+vbnet
+Copy code
+
+Follow the prompts to interact with the simulator.
+
+## Contributing
+Contributions to SimuHub are welcome! If you have ideas for new simulators or improvements to existing ones, feel free to fork the repository, make your changes, and submit a pull request.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
 ### [More Simultors will be added in future]
