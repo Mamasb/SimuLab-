@@ -20,7 +20,7 @@ Simulates a microwave oven, allowing users to select different types of food and
 Simulates a washing machine, providing options for different types of clothing and washing cycles.
 
 ## Usage
-Each simulator is contained within its own directory. To use a simulator, simply navigate to its directory and compile the source code using a C compiler. Run the executable file to start the simulation.
+ To use a simulator, simply navigate to its directory and compile the source code using a C compiler. Run the executable file to start the simulation.
 
 Example:
 cd microwave_simulator
